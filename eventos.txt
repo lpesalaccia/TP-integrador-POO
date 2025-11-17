@@ -1,0 +1,7 @@
+EVT-001|Conferencia de Java|Conferencia sobre las últimas novedades en Java 21 y tecnologías relacionadas|20/12/2025 10:00|Auditorio Principal|150|AST-001,AST-002,AST-003|REC-001|PROGRAMADO
+EVT-002|Taller de POO|Taller práctico de Programación Orientada a Objetos con ejercicios|15/01/2026 14:30|Sala de Capacitación|30|AST-001,AST-004|REC-002|PROGRAMADO
+EVT-003|Meet empresa|encuentro de desarrolladores|10/11/2025 18:00|Cafetería Las Heras|50|AST-002,AST-003,AST-004,AST-005|REC-003|FINALIZADO
+EVT-004|Cumpleaños|20 años|02/11/2026 21:30|CABA|20|AST-006|REC-004|PROGRAMADO
+EVT-005|Taller|ceramica|04/12/2025 12:00|Recoleta|30|||PROGRAMADO
+EVT-006|Festividad|Judía|27/07/2027 12:00|Palermo|30|AST-007||PROGRAMADO
+EVT-007|Test|test|10/10/2028 00:00|test|50|AST-007|REC-003|PROGRAMADO

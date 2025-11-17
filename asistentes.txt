@@ -1,0 +1,5 @@
+AST-001|Juan|Pérez|juan.perez@email.com|1234-5678|Universidad Nacional|Estudiante
+AST-002|María|González|maria.gonzalez@email.com|8765-4321|TechCorp|Desarrolladora Senior
+AST-003|Carlos|Rodríguez|carlos.rodriguez@email.com|5555-1234|Freelance|Consultor
+AST-004|Ana|Martínez|ana.martinez@email.com|9999-8888|StartupXYZ|Product Manager
+AST-005|Luis|Fernández|luis.fernandez@email.com|7777-6666|DevLabs|Arquitecto de Software

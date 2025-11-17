@@ -1,0 +1,3 @@
+REC-001|Auditorio Principal|SALON|Auditorio con capacidad para 200 personas, equipamiento audiovisual completo|200|true|50.0|Edificio Central - Piso 1|Incluye proyector y sonido
+REC-002|Sala de Capacitación|SALON|Sala para talleres y capacitaciones con mesas y sillas|40|true|25.0|Edificio Académico - Piso 2|Configuración estilo aula
+REC-003|Cafetería Tech|CATERING|Servicio de catering con café, snacks y bebidas|100|false|15.0|Planta Baja|Coffee break incluido
